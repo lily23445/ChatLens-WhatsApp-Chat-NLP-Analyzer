@@ -2,6 +2,8 @@
 
 > Deep NLP insights from your WhatsApp conversations. Upload a chat export and uncover sentiment trends, hidden topics, language patterns, and more.
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit)](https://chatlens-whatsapp-chat-nlp-analyzer.streamlit.app)
+
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B?logo=streamlit&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-VADER%20·%20LDA%20·%20sklearn-6C63FF)
